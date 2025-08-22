@@ -1,5 +1,4 @@
 building cool shit @ amazon  
-breaking + fixing the internet one side project at a time
+breaking + fixing 
 
-tech, design, systems, ml — whatever helps make ideas real  
-sometimes i write, mostly i ship
+tech, design, systems, ml — whatever helps make ideas real 
